@@ -1,5 +1,5 @@
-# HugBot
-![](https://github.com/glass-bead/HugBot/tree/main/assets/icon.png)
+# HugBot ![GitHub repo size](https://img.shields.io/github/repo-size/glass-bead/HugBot?logo=Github&&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/glass-bead/HugBot?logo=Github&&style=flat-square)
+![](https://github.com/glass-bead/HugBot/blob/main/assets/icon.png?raw=true)
 
 This project is a Discord Bot written in JavaScript that allows users to receive and give out hugs.
 
